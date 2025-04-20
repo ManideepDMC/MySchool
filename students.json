@@ -3,14 +3,14 @@
     "studentId": "STD1237890",
     "firstName": "Arjun",
     "lastName": "Sharma",
-    "standard": "Primary-1(2024-2025)",
+    "standard": "Grade 8(2024-2025)",
     "displayPic": "https://raw.githubusercontent.com/ManideepDMC/MySchool/main/student1.png"
   },
   {
     "studentId": "STD1237891",
     "firstName": "Rohan",
     "lastName": "Sharma",
-    "standard": "Primary-2(2024-2025)",
+    "standard": "Grade 9(2024-2025)",
     "displayPic": "https://raw.githubusercontent.com/ManideepDMC/MySchool/main/student2.png"
   }
 ]
