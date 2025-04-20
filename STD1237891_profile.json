@@ -1,14 +1,14 @@
 {
   "studentId": "STD1237890",
-  "firstName": "Arjun",
+  "firstName": "Rohan",
   "lastName": "Sharma",
-  "age": 10,
+  "age": 14,
   "icon": "https://example.com/avatar_aarav.png",
   "fatherName": "Rakesh Sharma",
   "motherName": "Anita Sharma",
   "contact": {
-    "email": "aarav.kumar@example.com",
-    "phone": "+91-9876543210"
+    "email": "rohan.kumar@myschool.com",
+    "phone": "9876543210"
   },
   "standard": "Grade 5 (2024\u20132025)"
 }
