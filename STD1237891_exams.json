@@ -12,35 +12,35 @@
           "examDate": "2025-05-04",
           "time": "10:00 AM",
           "duration": "2h",
-          "maxMarks": 100
+          "maxMarks": 100.0
         },
         {
           "name": "science",
           "examDate": "2025-05-05",
           "time": "10:00 AM",
           "duration": "2h",
-          "maxMarks": 100
+          "maxMarks": 100.0
         },
         {
           "name": "social",
           "examDate": "2025-05-06",
           "time": "10:00 AM",
           "duration": "2h",
-          "maxMarks": 100
+          "maxMarks": 100.0
         },
         {
           "name": "english",
           "examDate": "2025-05-07",
           "time": "10:00 AM",
           "duration": "2h",
-          "maxMarks": 100
+          "maxMarks": 100.0
         },
         {
           "name": "telugu",
           "examDate": "2025-05-08",
           "time": "10:00 AM",
           "duration": "2h",
-          "maxMarks": 100
+          "maxMarks": 100.0
         }
       ]
     }
@@ -54,32 +54,32 @@
       "subjects": [
         {
           "name": "mathematics",
-          "score": 95,
-          "maxMarks": 100,
+          "score": 95.0,
+          "maxMarks": 100.0,
           "grade": "A+"
         },
         {
           "name": "science",
-          "score": 87,
-          "total": 100,
+          "score": 87.0,
+          "total": 100.0,
           "grade": "A"
         },
         {
           "name": "social",
-          "score": 95,
-          "total": 100,
+          "score": 95.0,
+          "total": 100.0,
           "grade": "A+"
         },
         {
           "name": "english",
-          "score": 96,
-          "total": 100,
+          "score": 96.0,
+          "total": 100.0,
           "grade": "A+"
         },
         {
           "name": "telugu",
-          "score": 94,
-          "total": 100,
+          "score": 94.0,
+          "total": 100.0,
           "grade": "A+"
         }
       ]
@@ -92,32 +92,32 @@
       "subjects": [
         {
           "name": "mathematics",
-          "score": 97,
-          "total": 100,
+          "score": 97.0,
+          "total": 100.0,
           "grade": "A+"
         },
         {
           "name": "science",
-          "score": 88,
-          "total": 100,
+          "score": 88.0,
+          "total": 100.0,
           "grade": "A"
         },
         {
           "name": "social",
-          "score": 95,
-          "total": 100,
+          "score": 95.0,
+          "total": 100.0,
           "grade": "A+"
         },
         {
           "name": "english",
-          "score": 93,
-          "total": 100,
+          "score": 93.0,
+          "total": 100.0,
           "grade": "A+"
         },
         {
           "name": "telugu",
-          "score": 92,
-          "total": 100,
+          "score": 92.0,
+          "total": 100.0,
           "grade": "A+"
         }
       ]
