@@ -3,7 +3,7 @@
   "firstName": "Arjun",
   "lastName": "Sharma",
   "age": 14,
-  "icon": "https://raw.githubusercontent.com/ManideepDMC/MySchool/main/student1.png",
+  "displayPic": "https://raw.githubusercontent.com/ManideepDMC/MySchool/main/student1.png",
   "fatherName": "Rakesh Sharma",
   "motherName": "Anita Sharma",
   "contact": {
