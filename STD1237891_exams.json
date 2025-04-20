@@ -1,0 +1,127 @@
+{
+  "exams": [
+    {
+      "id": "2025050207",
+      "type": "Annually",
+      "startDate": "2025-05-04",
+      "endDate": "2025-05-08",
+      "resultDate": "2025-05-25",
+      "subjects": [
+        {
+          "name": "mathematics",
+          "examDate": "2025-05-04",
+          "time": "10:00 AM",
+          "duration": "2h",
+          "maxMarks": 100
+        },
+        {
+          "name": "science",
+          "examDate": "2025-05-05",
+          "time": "10:00 AM",
+          "duration": "2h",
+          "maxMarks": 100
+        },
+        {
+          "name": "social",
+          "examDate": "2025-05-06",
+          "time": "10:00 AM",
+          "duration": "2h",
+          "maxMarks": 100
+        },
+        {
+          "name": "english",
+          "examDate": "2025-05-07",
+          "time": "10:00 AM",
+          "duration": "2h",
+          "maxMarks": 100
+        },
+        {
+          "name": "telugu",
+          "examDate": "2025-05-08",
+          "time": "10:00 AM",
+          "duration": "2h",
+          "maxMarks": 100
+        }
+      ]
+    }
+  ],
+  "examResults": [
+    {
+      "id": "2024082507",
+      "type": "Quarterly",
+      "resultDate": "2024-08-25",
+      "grade": "A+",
+      "subjects": [
+        {
+          "name": "mathematics",
+          "score": 95,
+          "maxMarks": 100,
+          "grade": "A+"
+        },
+        {
+          "name": "science",
+          "score": 87,
+          "total": 100,
+          "grade": "A"
+        },
+        {
+          "name": "social",
+          "score": 95,
+          "total": 100,
+          "grade": "A+"
+        },
+        {
+          "name": "english",
+          "score": 96,
+          "total": 100,
+          "grade": "A+"
+        },
+        {
+          "name": "telugu",
+          "score": 94,
+          "total": 100,
+          "grade": "A+"
+        }
+      ]
+    },
+    {
+      "id": "2024112506",
+      "type": "Half-Yearly",
+      "resultDate": "2024-11-25",
+      "grade": "A+",
+      "subjects": [
+        {
+          "name": "mathematics",
+          "score": 97,
+          "total": 100,
+          "grade": "A+"
+        },
+        {
+          "name": "science",
+          "score": 88,
+          "total": 100,
+          "grade": "A"
+        },
+        {
+          "name": "social",
+          "score": 95,
+          "total": 100,
+          "grade": "A+"
+        },
+        {
+          "name": "english",
+          "score": 93,
+          "total": 100,
+          "grade": "A+"
+        },
+        {
+          "name": "telugu",
+          "score": 92,
+          "total": 100,
+          "grade": "A+"
+        }
+      ]
+    }
+  ]
+}
+
