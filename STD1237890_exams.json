@@ -55,7 +55,7 @@
         {
           "name": "mathematics",
           "score": 93.0,
-          "maxMarks": 100.0,
+          "total": 100.0,
           "grade": "A+"
         },
         {
