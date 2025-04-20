@@ -3,12 +3,12 @@
   "firstName": "Rohan",
   "lastName": "Sharma",
   "age": 15,
-  "icon": "https://example.com/avatar_aarav.png",
+  "icon": "https://raw.githubusercontent.com/ManideepDMC/MySchool/main/student2.png",
   "fatherName": "Rakesh Sharma",
   "motherName": "Anita Sharma",
   "contact": {
     "email": "rohan.sharma@myschool.com",
     "phone": "9876543210"
   },
-  "standard": "Grade 8(2024\u20132025)"
+  "standard": "Grade 9(2024\u20132025)"
 }
